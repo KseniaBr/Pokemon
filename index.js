@@ -129,35 +129,35 @@ class Player {
 let bisasam = new Pokemon(
   "Bisasam",
   ["Pflanze", "Gift"],
-  Math.floor(Math.random() * (10 - 7 + 1) + 7),
+  Math.floor(Math.random() * (15 - 10 + 1) + 10),
   3
 );
 
 let glumanda = new Pokemon(
   "Glumanda",
   "Feuer",
-  Math.floor(Math.random() * (15 - 7 + 1) + 7),
+  Math.floor(Math.random() * (15 - 10 + 1) + 10),
   4
 );
 
 let shiggy = new Pokemon(
   "Shiggy",
   "Wasser",
-  Math.floor(Math.random() * (15 - 7 + 1) + 7),
+  Math.floor(Math.random() * (15 - 10 + 1) + 10),
   3
 );
 
 let raupy = new Pokemon(
   "Raupy",
   "Käfer",
-  Math.floor(Math.random() * (15 - 7 + 1) + 7),
+  Math.floor(Math.random() * (15 - 10 + 1) + 10),
   2
 );
 
 let rattfratz = new Pokemon(
   "Rattfratz",
   "Normal",
-  Math.floor(Math.random() * (15 - 7 + 1) + 7),
+  Math.floor(Math.random() * (15 - 10 + 1) + 10),
   2
 );
 
